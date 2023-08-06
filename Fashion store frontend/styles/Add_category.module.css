@@ -1,0 +1,119 @@
+.backgroundColor{
+    background-color: lightgray;
+    height: auto;
+    padding-bottom: 30px;
+    
+}
+.currentpassword{
+    padding-left: 80px;
+    padding-top:4px;
+    
+  }
+  .widthofthepage{
+    width: 88%;
+    margin: auto;
+  }
+
+
+
+
+  
+.checking{
+    margin-bottom: 0;
+}
+.currentpasswording{
+    padding-left: 130px;
+    padding-top:4px;
+
+}
+
+@media only screen and (min-width: 280px) and (max-width: 540px) {
+  .currentpassword {
+    padding-left: 15px !important;
+  }
+  .currentpasswording {
+    padding-left: 15px !important;
+  }
+}
+@media only screen and (min-width: 541px) and (max-width: 820px) {
+  .currentpassword {
+    padding-left: 15px !important;
+  }
+  .currentpasswording {
+    padding-left: 15px !important;
+  }
+}
+@media only screen and (min-width: 821px) and (max-width: 989px) {
+  .currentpassword {
+    padding-left: 15px !important;
+  }
+  .currentpasswording {
+    padding-left: 15px !important;
+  }
+}
+@media only screen and (min-width: 990px) and (max-width: 1024px) {
+  .currentpassword {
+    padding-left: 45px !important;
+  }
+  .currentpasswording {
+    padding-left: 60px !important;
+  }
+}
+@media only screen and (min-width: 1025px) and (max-width: 1280px) {
+  .currentpassword {
+    padding-left: 91px !important;
+  }
+  .currentpasswording {
+    padding-left: 100px !important;
+  }
+}
+/* @media (min-width: 280px) and (max-width: 400px) {
+  
+} */
+
+/* @media only screen and (max-width: 540px) {
+  .currentpassword{
+    padding-left: 15px !important;
+  }
+  .currentpasswording{
+    padding-left: 15px !important;
+
+  }
+
+}
+@media only screen and (max-width: 820px) {
+  .currentpassword{
+    padding-left: 15px !important;
+  }
+  .currentpasswording{
+    padding-left: 15px !important;
+
+  }
+
+}
+
+@media only screen and (max-width: 912px) {
+  .currentpassword{
+    padding-left: 15px !important;
+  }
+  .currentpasswording{
+    padding-left: 15px !important;
+
+  }
+
+}
+@media only screen and (max-width: 1024px) {
+  .currentpassword{
+    padding-left: 40px !important;
+  }
+  .currentpasswording{
+    padding-left: 60px !important;
+
+  }
+
+} */
+
+
+
+
+

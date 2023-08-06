@@ -1,0 +1,12 @@
+.imagecontainer{
+    width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.responsiveImage{
+    width: 100%;
+  height: 420px;
+  
+}

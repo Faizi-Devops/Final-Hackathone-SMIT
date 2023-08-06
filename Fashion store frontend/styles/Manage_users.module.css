@@ -1,0 +1,18 @@
+.backgroundColor{
+    background-color: lightgray;
+    height: auto;
+    padding-bottom: 30px;
+    
+}
+.currentpassword{
+    padding-left: 87px;
+    padding-top:4px;
+    
+  }
+  .widthofthepage{
+    width: 88%;
+    margin: auto;
+  }
+.checking{
+    margin-bottom: 0;
+}
